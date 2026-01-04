@@ -7,7 +7,20 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
 
 # log file
 game_state.jsonl
+game_events.jsonl
+
+# optional
+*.log
+.eggs/
