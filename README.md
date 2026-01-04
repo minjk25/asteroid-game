@@ -28,6 +28,7 @@ uv sync
 # 3. Run the game
 uv run main.py
 
+```
 
 ## Controls
 
