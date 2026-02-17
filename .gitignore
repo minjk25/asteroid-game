@@ -10,7 +10,6 @@ wheels/
 .venv/
 venv/
 env/
-uv.lock
 
 # OS / editor
 .DS_Store
